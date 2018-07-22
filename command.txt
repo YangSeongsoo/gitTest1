@@ -10,3 +10,5 @@ git push -u origin master
 
 https://git-scm.com/download/win - 윈도우
 yum -y install git-all - 리눅스
+
+http://recoveryman.tistory.com/251 - 참조
